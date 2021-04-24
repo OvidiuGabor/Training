@@ -1,0 +1,14 @@
+D:\Projects\Training\Design Patterns\Design_Paterns\bin\Debug\capitals.txt
+D:\Projects\Training\Design Patterns\Design_Paterns\bin\Debug\Design_Paterns.exe.config
+D:\Projects\Training\Design Patterns\Design_Paterns\bin\Debug\Design_Paterns.exe
+D:\Projects\Training\Design Patterns\Design_Paterns\bin\Debug\Design_Paterns.pdb
+D:\Projects\Training\Design Patterns\Design_Paterns\bin\Debug\MoreLinq.dll
+D:\Projects\Training\Design Patterns\Design_Paterns\bin\Debug\System.ValueTuple.dll
+D:\Projects\Training\Design Patterns\Design_Paterns\bin\Debug\MoreLinq.pdb
+D:\Projects\Training\Design Patterns\Design_Paterns\bin\Debug\MoreLinq.xml
+D:\Projects\Training\Design Patterns\Design_Paterns\bin\Debug\System.ValueTuple.xml
+D:\Projects\Training\Design Patterns\Design_Paterns\obj\Debug\Singleton.csprojAssemblyReference.cache
+D:\Projects\Training\Design Patterns\Design_Paterns\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\Projects\Training\Design Patterns\Design_Paterns\obj\Debug\Singleton.csproj.CopyComplete
+D:\Projects\Training\Design Patterns\Design_Paterns\obj\Debug\Design_Paterns.exe
+D:\Projects\Training\Design Patterns\Design_Paterns\obj\Debug\Design_Paterns.pdb
