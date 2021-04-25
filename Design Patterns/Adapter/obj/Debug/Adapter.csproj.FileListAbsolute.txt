@@ -1,0 +1,6 @@
+D:\Projects\Training\Design Patterns\Adapter\bin\Debug\Adapter.exe.config
+D:\Projects\Training\Design Patterns\Adapter\bin\Debug\Adapter.exe
+D:\Projects\Training\Design Patterns\Adapter\bin\Debug\Adapter.pdb
+D:\Projects\Training\Design Patterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Projects\Training\Design Patterns\Adapter\obj\Debug\Adapter.exe
+D:\Projects\Training\Design Patterns\Adapter\obj\Debug\Adapter.pdb
